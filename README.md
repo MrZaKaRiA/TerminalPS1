@@ -1,13 +1,7 @@
 ## PS1 Linux/macOS Terminal Customization
 
-<pre style="background-color:black;color:white">
-<code>
-<span style="color: #ff5f87">\u</span>
-<span style="color: #666"> at </span>
-<span style="color: #00bfff">\W</span>
-<span style="color: #666"> $ </span>
-</code>
-</pre>
+![Screenshot](https://previews.dropbox.com/p/thumb/AB2mqLijuPXlzBdC66T5CKzGbEspj4MmPuKZ2Qe6vVw3_qmaCRqMrWkuhNUCcodco66VFTdzm4TnGdp9v7Orf2wlAGztEzKfg_V1Xk5wOS1ysC-FiAxiHJ5Xxh5bdYE6PnHwAVi5_AItNelfZqr2W5w-f5Ol-ZPeXXKfZjtILhI82Qgli2twBwZGDXN5RYqy13UoOtlzcExZ3GrHFm88KZxK0QXOz1miDYIoXbSF9UEvjNlciD_CVX5oWaJKitxguoudQCehCE2PxqH9tZC66NfY4Wz9xy-yGPNtvqD1MWpr270kekMLpxEb0xbl9mk1YSWtehakghHb0rUEF6VsYi1JsWuHtwK4KAVUyP__I8k2f3MxKqP8-1IZvCC2UVbWjLE/p.png)
+
 
 ```bash
 mrzakaria at Documents $
