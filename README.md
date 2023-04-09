@@ -1,8 +1,5 @@
 ## PS1 Linux/macOS Terminal Customization
 
-```bash
-\[\033[38;5;197m\]\u\[\033[38;5;15m\] at \[\033[38;5;191m\]\W\[\033[38;5;15m\] \[\033[38;5;15m\]\$\[\033[0m\]
-```
 
 ```bash
 mrzakaria at Documents $
