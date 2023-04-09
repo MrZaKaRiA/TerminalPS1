@@ -1,6 +1,6 @@
 ## PS1 Linux/macOS Terminal Customization
 
-![Screenshot](https://imgur.com/a/dqxfxIE)
+![Screenshot](https://i.imgur.com/0r5vssm.png)
 
 
 ```bash
