@@ -1,5 +1,13 @@
 ## PS1 Linux/macOS Terminal Customization
 
+<pre style="background-color:black;color:white">
+<code>
+<span style="color: #ff5f87">\u</span>
+<span style="color: #666"> at </span>
+<span style="color: #00bfff">\W</span>
+<span style="color: #666"> $ </span>
+</code>
+</pre>
 
 ```bash
 mrzakaria at Documents $
